@@ -19,6 +19,8 @@ CREATE TABLE role (
   REFERENCES department(department_id)
 );
 
+
+
 CREATE TABLE employee (
   employee_id INT NOT NULL AUTO_INCREMENT,
   role_id INT NOT NULL,
