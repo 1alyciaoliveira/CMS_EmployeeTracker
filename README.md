@@ -18,7 +18,9 @@ To run this project you'll need to have node.js installed, inquirer@8.2.4 and my
 
 ## Usage
 Clone the repository, install inquirer@8.2.4 and mysql2, open it and run node server.js. A prompt will start and you can choose to view the information or to add information.
-You can start creating the data from scratch or you can also use the schema and the seeds available in this repo.
+You can start creating the data from scratch or you can also use the schema and the seeds available in this repo.you ca
+
+Video demonstration: https://drive.google.com/file/d/1WWCzCejzY-Qbsx_60XmcZBWTJTjjLDaq/view
 
 ## Credits
 This project was done as a challenge for Tecnologico de Monterrey's bootcamp.
